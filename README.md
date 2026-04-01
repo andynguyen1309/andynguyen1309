@@ -1,5 +1,14 @@
-## Hi there 👋
+Hey there! 👋
 
+I’m Andy — a Business Analytics student at the University of Adelaide, focused on turning data into actionable insights.
+
+I work on end-to-end data projects, from cleaning and analysis to modeling and visualization, solving real-world business problems with data.
+
+🚀 What I’m working on
+
+- Building data analytics projects (SQL, Python, dashboards)
+- Applying statistical models & machine learning
+- Growing my portfolio for data & consulting roles
 <!--
 **andynguyen1309/andynguyen1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
