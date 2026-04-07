@@ -1,4 +1,4 @@
-Hey there! 👋
+# Hey there! 👋
 
 I’m Andy — a Business Analytics student at the University of Adelaide, focused on turning data into actionable insights.
 
@@ -6,7 +6,7 @@ I work on end-to-end data projects, from cleaning and analysis to modeling and v
 
 ---
 
-🚀 What I’m working on
+## 🚀 What I’m working on
 
 - Building data analytics projects (SQL, Python, dashboards)
 - Applying statistical models & machine learning
@@ -14,11 +14,11 @@ I work on end-to-end data projects, from cleaning and analysis to modeling and v
 
 ---
 
-🛠️ Tools I use
+## 🛠️ Tools I use
 - Python, SQL, R, Power BI, Tableau, SAS Visual Analytics, Excel
 
 ---
 
-⚡ Fun fact
+## ⚡ Fun fact
 - I enjoy combining business thinking + data analytics
 - Big fan of aviation, travel, and data-driven decision making
